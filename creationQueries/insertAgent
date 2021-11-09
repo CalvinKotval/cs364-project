@@ -1,0 +1,16 @@
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Brimstone', 'Controller');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Phoenix', 'Duelist');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Sage', 'Sentinel');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Sova', 'Initiator');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Viper', 'Controller');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Cypher', 'Sentinel');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Reyna', 'Duelist');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Killjoy', 'Sentinel');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Breach', 'Initiator');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Omen', 'Controller');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Jett', 'Duelist');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Raze', 'Duelist');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Skye', 'Initiator');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Yoru', 'Duelist');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Astra', 'Controller');
+INSERT INTO Agent (AgentName, AgentRole) VALUES ('Kay/o', 'Initiator');
